@@ -1,6 +1,6 @@
 # FitBliss Gym Landing Page 🏋️‍♀️💪
 
-Welcome to the **FitBliss Gym Landing Page**! 🚀 Whether you're a fitness enthusiast or just starting your fitness journey, this page is your gateway to achieving your fitness goals. Let’s get you on the path to becoming your best self! 🏅
+Welcome to the **FitBliss Gym Landing Page**! 🚀 Whether you're a fitness enthusiast or just starting your fitness journey, this page is the right gateway to achieving your fitness goals. Let’s get you on the path to becoming your best self! 🏅
 
 ## Project Overview 🎯
 
