@@ -41,7 +41,7 @@ To get this project running on your local machine, follow these simple steps:
 
 ## Why FitBliss? 🤔
 
-- **Community** 👯‍♀️: Be part of a supportive fitness community.
+- **Community** 👯‍♀️: Be part of such a supportive fitness community.
 - **Results** 💪: We don’t just promise, we deliver to the peak.
 - **Convenience** 🕒: Open 24/7 to fit your schedule!
 
