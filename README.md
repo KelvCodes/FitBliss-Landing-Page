@@ -18,7 +18,7 @@ The **FitBliss Gym** landing page is designed with a perfect blend of fun and pr
   
 ## Installation ⚙️
 
-To get this project running on your local machine, follow these simple steps:
+To get this project running on your local machine, follow these simple steps vividly:
 
 1. **Clone the repository**:
    ```bash
