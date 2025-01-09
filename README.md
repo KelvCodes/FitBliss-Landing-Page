@@ -10,7 +10,7 @@ The **FitBliss Gym** landing page is designed with a perfect blend of fun and pr
 
 - **Beautiful, modern design** ✨: Sleek and user-friendly layout to give you the best user experience.
 - **Responsive layout** 📱: Works perfectly on desktops, tablets, and mobile phones!
-- **Gym Membership Options** 💳:Vast Clear pricing and options to choose from.
+- **Gym Membership Options** 💳:Vast clear pricing and options to choose from.
 - **CTA Buttons** 🏃‍♂️: Easy-to-find call-to-action buttons to book your spot or learn enquire more!
 - **Facility Showcase** 🏋️: Stunning images of our gym and equipment.
 - **Success Stories** 🌟: Real members sharing their fitness journey (and results!) with FitBliss.
