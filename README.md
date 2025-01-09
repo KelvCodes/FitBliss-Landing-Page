@@ -16,7 +16,7 @@ The **FitBliss Gym** landing page is designed with a perfect blend of fun and pr
 - **Success Stories** 🌟: Real members sharing their fitness journey (and results!) with FitBliss.
 - **Contact Form** 📞: Get in touch with us directly for more information.
   
-## Installation ⚙️
+## Installation Process ⚙️
 
 To get this project running on your local machine, follow these simple steps vividly:
 
