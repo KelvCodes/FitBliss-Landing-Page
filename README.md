@@ -33,7 +33,7 @@ To get this project running on your local machine, follow these simple steps viv
 3. **Open the landing page**:
    Open `index.html` in your browser and voila! 🎉
 
-## Tech Stack 🖥️
+## Tech Stack Used 🖥️
 
 - HTML5: The backbone of the whole landing page.
 - CSS3: For that beautiful styling that makes everything pop smoothly! 💅
