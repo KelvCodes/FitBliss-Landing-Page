@@ -20,7 +20,7 @@ The **FitBliss Gym** landing page is designed with a perfect blend of fun and pr
 
 To get this project running on your local machine, follow these simple steps vividly:
 
-1. **Clone the repository**:
+1. **Cloning the repository**:
    ```bash
    git clone https://github.com/yourusername/fitbliss-landing-page.git
    ```
