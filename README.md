@@ -25,7 +25,7 @@ To get this project running on your local machine, follow these simple steps viv
    git clone https://github.com/yourusername/fitbliss-landing-page.git
    ```
 
-2. **Navigate to the project folder**:
+2. **Navigating to the project folder**:
    ```bash
    cd fitbliss-landing-page
    ```
