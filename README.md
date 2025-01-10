@@ -37,7 +37,7 @@ To get this project running on your local machine, follow these simple steps viv
 
 - HTML5: The backbone of the whole landing page.
 - CSS3: For that beautiful styling that makes everything pop smoothly! 💅
-- FontAwesome: Icons to make everything more fun and recognizable! 🔥
+- FontAwesome: Icons to make everything more fun,lively and recognizable! 🔥
 
 ## Why FitBliss? 🤔
 
