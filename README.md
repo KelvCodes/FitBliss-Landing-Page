@@ -14,7 +14,7 @@ The **FitBliss Gym** landing page is designed with a perfect blend of fun and pr
 - **CTA Buttons** 🏃‍♂️: Easy-to-find call-to-action buttons to book your spot or learn enquire more!
 - **Facility Showcase** 🏋️: Stunning images of our gym and equipment.
 - **Success Stories** 🌟: Real members sharing their fitness journey (and results!) with FitBliss.
-- **Contact Form** 📞: Get in touch with us directly through our contact for more information.
+- **Contact Form** 📞: Get in touch with us directly through our contact means for more information.
   
 ## Installation Process ⚙️
 
