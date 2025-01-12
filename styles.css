@@ -647,7 +647,6 @@ nav {
   .footer__container {
     grid-template-columns: 1fr 150px;
   }
-
   .footer__bar {
     text-align: center;
   }
