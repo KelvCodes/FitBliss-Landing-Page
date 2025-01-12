@@ -30,7 +30,7 @@ To get this project running on your local machine, follow these simple steps viv
    cd fitbliss-landing-page
    ```
 
-3. **Open the landing page**:
+3. **Opening the landing page**:
    Open `index.html` in your browser and voila! 🎉
 
 ## Tech Stack Used 🖥️
