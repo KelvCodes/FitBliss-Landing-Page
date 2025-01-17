@@ -82,7 +82,6 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: var(--primary-color);
 }
-
 nav {
   max-width: var(--max-width);
   margin: auto;
