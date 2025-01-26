@@ -68,4 +68,7 @@ You’ve got the fitness dream, we’ve got the tools. Join FitBliss Gym today a
   </a>
 </div>  
 
+### 💡 Support My Work  
+If you enjoy my projects, feel free to [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%F0%9F%8C%8D-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kelvcodes) 
+
 
