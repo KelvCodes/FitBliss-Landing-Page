@@ -49,6 +49,6 @@ To get this project running on your local machine, follow these simple steps viv
 
 You’ve got the fitness dream, we’ve got the tools. Join FitBliss Gym today and turn your fitness aspirations into very realistic achievements! 🚀
 
-## 😍 Let's get connceted so we talk about
+## 😍 Let's get connceted so we talk about improvements
 
 
